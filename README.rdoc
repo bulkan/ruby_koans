@@ -1,3 +1,6 @@
+= WARNING
+This repo contains the solution to the Ruby Koans. 
+
 = EdgeCase Ruby Koans
 
 The Ruby Koans walk you along the path to enlightenment in order to learn Ruby.
